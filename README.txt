@@ -32,11 +32,11 @@ API
 ******************************************************************
 Fetch Records: 
 	Request Method: GET 
-	URL: http://localhost:8086/wmf/hiringstack/
+	URL: http://localhost:8086/hiringstack/hiringstack/
 
 Insert Records: 
 	Request Method: POST
-	URL: http://localhost:8086/wmf/hiringstack/
+	URL: http://localhost:8086/hiringstack/hiringstack/
 	Payload: {"hiringName":"name of the Employee","hiringAddress":"Address","hiringPhone":"Phone number"}
 	
 ******************************************************************
